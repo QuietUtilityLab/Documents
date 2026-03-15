@@ -12,6 +12,7 @@ The Application collects information when you download and use it. This informat
 *   The operating system you use on your mobile device
 
 The Application does not gather precise information about the location of your mobile device.
+The Application does not request, access, or collect any health data or personal information of any kind.
 
 The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
 
